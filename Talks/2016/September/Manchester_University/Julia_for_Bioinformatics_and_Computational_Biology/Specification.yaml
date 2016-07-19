@@ -1,0 +1,38 @@
+title: Julia and BioJulia for Bioinformatics
+
+author: Ben J. Ward
+
+framework: remark
+
+collections:
+    aboutme: ~/github/Ward9250.github.io/presentations/Slide_Collections/Me_Slides
+    jl: ~/github/Ward9250.github.io/presentations/Slide_Collections/Julia
+    biojl: ~/github/Ward9250.github.io/presentations/Slide_Collections/BioJulia
+
+slides:
+    - biojl.julialogo
+    - jl.weneed
+    - jl.tradsol
+    - jl.souldestroy
+    - jl.contsol
+    - jl.moresd
+    - biojl.mozillacr
+    - jl.enterjulia
+    - biojl.julia_features
+    - biojl.benchmarks
+    - biojl.bmarkcode
+    - biojl.origins
+    - biojl.whatwewant
+    - biojl.packages
+    - biojl.parsing1
+    - biojl.parsing2
+    - biojl.parsing3
+    - biojl.parsing4
+    - biojl.nucseq
+    - biojl.nucseq2
+    - biojl.nucseq3
+    - biojl.intervals
+    - biojl.intervals2
+    - biojl.intervals3
+    - biojl.alignments
+    - biojl.moretocome
